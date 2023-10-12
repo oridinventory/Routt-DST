@@ -2,8 +2,8 @@
   "theme": {
     "name": "FoldableTheme"
   },
-  "portalUrl": "",
-  "appId": "",
+  "portalUrl": "https://segroup.maps.arcgis.com/",
+  "appId": "OE4auOQGDviSGgNW",
   "authorizedCrossOriginDomains": [],
   "title": "ArcGIS Web Application",
   "subtitle": "with ArcGIS Web AppBuilder",
